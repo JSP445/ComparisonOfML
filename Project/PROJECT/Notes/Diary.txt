@@ -1,0 +1,19 @@
+12/10/2023
+
+Created an early version of the Nearest Neighbours algorithm. It doesn't read from a text file containing data yet.
+
+17/10/2023
+
+Created an early version of the Decision Trees algorithm. Took a very long time because every implementation I find of these algorithms is in Python. Doesn't read from a file.
+
+4/11/2023
+
+Created a Decision Trees algorithm that reads from a dataset about heart failure.
+
+13/11/2023
+
+The K Nearest Neighbours algorithm can now test on a file. It tests from the same heart.csv file.
+
+15/11/2024
+
+Created a custom version of Decision Trees algorithm. 

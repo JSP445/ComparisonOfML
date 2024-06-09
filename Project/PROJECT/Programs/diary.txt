@@ -1,0 +1,29 @@
+23/01/2024
+
+Fixed the main menu. It now loops until the user presses exit. Also fixed some errors showing up in the program by adding
+zero division flag set to true.
+
+28/01/2024
+
+Created the option to choose between different datasets. Some of the algorithms still need tuning to work with different
+sets.
+
+31/01/2024
+
+Added other algorithms to main module. Logistic Regresion and Decision Trees need some further tuning.
+
+17/02/2024
+
+Added cross validation scores custom implementation. Need to rewrite Logistic Regression and start implementing ROC curves.
+
+1/03/2024
+
+Rewrote Logistic Regression for better results. Need to implement ROC Curves and consider adding new dataset options.
+
+12/03/2024
+
+Created implementation of ROC Curves. Going to add more dataset options.
+
+19/03/2024
+
+Added more dataset options.
